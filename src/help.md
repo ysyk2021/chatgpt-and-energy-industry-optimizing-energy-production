@@ -17,4 +17,4 @@
 17. Cognitive automation for energy systems
 18. Energy data analysis
 19. Energy performance management
-20. Emerging energy technologies.
+20. Emerging energy technologies
