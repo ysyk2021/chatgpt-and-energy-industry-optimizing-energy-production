@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Explanation of energy industry and its importance](chapter-1-2.md)
   - [The role of ChatGPT in improving energy production](chapter-1-3.md)
 - [Chapter 1: Basics of Energy Industry](chapter-2.md)
