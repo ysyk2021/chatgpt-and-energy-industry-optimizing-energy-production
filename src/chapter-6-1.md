@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in energy industry
-=================================================================================================
 
 Implementing ChatGPT in the energy industry can help improve energy production processes and address some of the challenges facing the industry. However, successfully implementing ChatGPT requires careful planning and execution. In this chapter, we will explore the steps to implement ChatGPT in the energy industry.
 

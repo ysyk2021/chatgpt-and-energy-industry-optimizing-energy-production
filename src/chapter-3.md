@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Energy Industry
-========================================
 
 The energy industry faces several challenges that impact energy providers and the production of energy. In this chapter, we'll explore the factors affecting the energy industry, common challenges faced by energy providers, and the impact of these challenges on energy production.
 

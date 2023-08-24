@@ -1,5 +1,3 @@
-Common challenges faced by energy providers
-=====================================================================================
 
 The energy industry is faced with several challenges that impact energy providers across the globe. In this chapter, we will discuss some of the common challenges faced by energy providers.
 

@@ -1,5 +1,3 @@
-Different types of energy sources
-=======================================================================
 
 The energy industry relies on a variety of energy sources to power modern society. These energy sources can be broadly categorized into three main types: fossil fuels, nuclear power, and renewable energy sources.
 

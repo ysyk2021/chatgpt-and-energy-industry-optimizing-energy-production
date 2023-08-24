@@ -1,5 +1,3 @@
-Emerging trends and challenges in energy industry and ChatGPT
-================================================================================================================
 
 As ChatGPT continues to advance, the energy industry can expect to see emerging trends and new challenges. In this chapter, we will explore some of the emerging trends and challenges in the energy industry and ChatGPT.
 

@@ -1,5 +1,3 @@
-Case studies of energy providers that have successfully implemented ChatGPT in their services
-=================================================================================================================================================
 
 Energy providers are increasingly turning to ChatGPT to improve customer service, optimize operations, and increase sustainability. In this chapter, we will explore case studies of energy providers that have successfully implemented ChatGPT in their services.
 

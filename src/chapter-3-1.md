@@ -1,5 +1,3 @@
-Factors affecting energy industry
-===========================================================================
 
 The energy industry is a complex and dynamic sector that faces numerous challenges. In this chapter, we'll explore some of the factors that affect the energy industry and the challenges they pose.
 

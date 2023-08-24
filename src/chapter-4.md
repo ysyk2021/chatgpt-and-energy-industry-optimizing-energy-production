@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Energy Industry
-=========================================================
 
 Artificial intelligence (AI) and chatbots have the potential to revolutionize the energy industry by improving operational efficiency, reducing costs, increasing safety, and enhancing sustainability. In this chapter, we will provide an introduction to AI and chatbots, explore how they can be used to improve energy production, and discuss the benefits of using AI and chatbots in the energy industry.
 

@@ -1,5 +1,3 @@
-Impact of These Challenges on Energy Production
-=========================================================================================
 
 The energy industry is facing a number of challenges that are impacting energy production. In this chapter, we will explore some of the key challenges facing the energy industry and their impact on energy production.
 

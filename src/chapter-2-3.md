@@ -1,5 +1,3 @@
-Importance of energy production optimization
-==================================================================================
 
 The energy industry plays a critical role in powering modern society, providing the energy necessary to fuel homes, businesses, and industries. In this chapter, we'll explore the basics of the energy industry and the importance of energy production optimization.
 

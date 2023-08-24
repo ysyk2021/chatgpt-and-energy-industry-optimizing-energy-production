@@ -1,5 +1,3 @@
-Chapter 1: Basics of Energy Industry
-====================================
 
 The energy industry plays a critical role in powering modern society, providing the energy necessary to fuel homes, businesses, and industries. In this chapter, we'll explore the basics of the energy industry, including its definition, different types of energy sources, and the importance of energy production optimization.
 

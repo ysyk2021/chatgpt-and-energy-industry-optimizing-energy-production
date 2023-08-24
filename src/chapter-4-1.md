@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-==========================================================================================
 
 Artificial intelligence (AI) and chatbots are rapidly transforming the energy industry by improving operational efficiency, reducing costs, increasing safety, and enhancing sustainability. In this chapter, we will provide an introduction to AI and chatbots and their role in the energy industry.
 
