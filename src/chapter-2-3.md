@@ -1,5 +1,4 @@
-Chapter 2: Importance of Energy Production Optimization
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we delve into the significance of energy production optimization. We explore the benefits it brings to the industry, the environment, and society as a whole.
 

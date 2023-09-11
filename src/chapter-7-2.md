@@ -1,5 +1,4 @@
-Chapter 6: Emerging Trends and Challenges in the Energy Industry and ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we explore the emerging trends and challenges that both the energy industry and ChatGPT are facing. These trends and challenges shape the future of the energy sector and impact the development and application of ChatGPT technology within the industry.
 

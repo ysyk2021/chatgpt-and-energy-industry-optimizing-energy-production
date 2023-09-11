@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we delve into the features and capabilities of ChatGPT, highlighting its unique attributes that make it a valuable tool for the energy industry.
 

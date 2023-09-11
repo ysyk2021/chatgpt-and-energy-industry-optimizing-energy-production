@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges Faced by Energy Providers
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we outline some of the common challenges faced by energy providers. These challenges impact the efficiency, reliability, and sustainability of energy production and can hinder the adoption of new technologies and practices.
 

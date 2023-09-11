@@ -1,5 +1,4 @@
-Chapter 3: Steps to Implement ChatGPT in the Energy Industry
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we outline the steps to successfully implement ChatGPT in the energy industry. These steps will guide energy companies in leveraging the power of AI and chatbots to enhance customer experiences, optimize operations, and drive innovation.
 

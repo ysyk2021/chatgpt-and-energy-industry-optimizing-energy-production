@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we provide an introduction to artificial intelligence (AI) and chatbots. These technologies play a crucial role in transforming the energy industry by enabling efficient communication, data analysis, and decision-making processes.
 

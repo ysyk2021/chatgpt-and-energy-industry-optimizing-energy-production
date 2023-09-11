@@ -1,5 +1,4 @@
-Chapter 8: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we summarize the key findings and insights from the book and explore the future outlook for ChatGPT in the energy industry.
 

@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Energy Sources
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we explore the different types of energy sources used for producing electricity and meeting the energy needs of society.
 

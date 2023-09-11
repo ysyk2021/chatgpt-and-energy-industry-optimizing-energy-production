@@ -1,5 +1,4 @@
-Chapter 2: Case Studies of Energy Providers Successfully Implementing ChatGPT
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we explore case studies of energy providers that have successfully implemented ChatGPT in their services. These real-world examples demonstrate the practical application and benefits of using ChatGPT to enhance customer experiences, optimize energy production, and streamline operations.
 

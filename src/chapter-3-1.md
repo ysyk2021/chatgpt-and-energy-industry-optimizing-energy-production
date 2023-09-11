@@ -1,5 +1,4 @@
-Chapter 5: Factors Affecting the Energy Industry
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we explore the key factors that have a significant impact on the energy industry. Understanding these factors is crucial for energy providers to navigate the evolving landscape and optimize their energy production processes.
 

@@ -1,5 +1,4 @@
-Chapter 5: Potential Advancements in the Energy Industry with ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we explore the potential advancements that can be achieved in the energy industry through the integration of ChatGPT technology. These advancements have the potential to revolutionize how we produce, distribute, and consume energy.
 

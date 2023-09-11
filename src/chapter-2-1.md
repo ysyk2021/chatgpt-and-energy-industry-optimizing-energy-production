@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Energy Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we provide a comprehensive definition of the energy industry. We explore the various sectors, activities, and players involved in this dynamic and crucial industry.
 

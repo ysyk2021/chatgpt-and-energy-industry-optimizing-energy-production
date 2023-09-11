@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT can be Used for Optimizing Energy Production
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we explore how GPT-based chatbots can be used to optimize energy production processes, improve efficiencies, and reduce costs in the energy industry.
 

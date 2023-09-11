@@ -1,5 +1,4 @@
-Chapter 2: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Energy Industry: Optimizing Energy Production," we introduce ChatGPT and explore its capabilities, architecture, and training process. Understanding the fundamentals of ChatGPT is essential for comprehending its applications in the energy industry.
 
